@@ -1,0 +1,47 @@
+body {
+    background-image: linear-gradient(darkmagenta, darkturquoise, darkorchid);
+}
+
+img {
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+
+    color: crimson;
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+h2 {
+
+    color: crimson;
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+h5 {
+
+    color: crimson;
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+
+p {
+
+    font-size: 30px;
+
+    font-family: cursive;
+    color: crimson;
+
+}
